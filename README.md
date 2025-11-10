@@ -25,20 +25,15 @@
 - [Google Cybersecurity Professional Certificate V2](https://www.credly.com/badges/f71077f6-815f-41fc-a6ef-0829c0080d4e/public_url)
 - [CISCO Introduction to Cybersecurity](https://www.credly.com/badges/17d4f31c-da94-4c19-a1ed-095339b04eec/public_url)
 - [CISCO IT Essentials](https://www.credly.com/badges/c16de51b-bbb4-467f-868f-238e963fd0c4/public_url)
-- [CISCO IT Essentials](https://www.credly.com/badges/c16de51b-bbb4-467f-868f-238e963fd0c4/public_url)
 - [WES Verified International Academic Qualifications](https://www.credly.com/badges/086b58ee-ac9b-4adf-b6f0-8749a422f8fa/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="CheshanJ | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" />][Xtwitter]
+[<img align="left" alt="CheshanJ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[Xtwitter]: https://x.com/CheshanJ
+[linkedin]: https://linkedin.com/in/cheshan-jayathilaka
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
