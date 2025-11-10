@@ -1,7 +1,47 @@
-## Hi there 👋
+<h1>Hi, I'm Cheshan! <br/><a href="https://github.com/cheshanj">IT Support Professional</a>, <a href="https://www.linkedin.com/in/cheshan-jayathilaka/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/cheshan-jayathilaka/">QA Engineer</a></h1>
+
+<h2>👨‍💻 IT/Cybersecurity Projects:</h2>
+
+- <b>Project</b>
+  - [Project](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Project</b>
+  - [Project](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Project](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Project](https://github.com/joshmadakor1/AD_PS)
+  - [Project](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>Project</b>
+  - [Project](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Project](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Project](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Project</b>
+  - [Project](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2>📄 Certifications</h2>
+
+- [CompTIA A+](https://www.credly.com/badges/ed566421-7463-4d7e-aa87-22dc46bfc977/public_url)
+- [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/d83c5304-d419-4712-82d3-df4568fe927d/public_url)
+- [Google Cybersecurity Professional Certificate V2](https://www.credly.com/badges/f71077f6-815f-41fc-a6ef-0829c0080d4e/public_url)
+- [CISCO Introduction to Cybersecurity](https://www.credly.com/badges/17d4f31c-da94-4c19-a1ed-095339b04eec/public_url)
+- [CISCO IT Essentials](https://www.credly.com/badges/c16de51b-bbb4-467f-868f-238e963fd0c4/public_url)
+- [CISCO IT Essentials](https://www.credly.com/badges/c16de51b-bbb4-467f-868f-238e963fd0c4/public_url)
+- [WES Verified International Academic Qualifications](https://www.credly.com/badges/086b58ee-ac9b-4adf-b6f0-8749a422f8fa/public_url)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**cheshanj/cheshanj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
