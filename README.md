@@ -2,21 +2,8 @@
 
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
-- <b>Project</b>
-  - [Project](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Project</b>
-  - [Project](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Project](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Project](https://github.com/joshmadakor1/AD_PS)
-  - [Project](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Project</b>
-  - [Project](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Project](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Project](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Project</b>
-  - [Project](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Active Direcoty Home Lab</b>
+  - [Set up a Active Directory Home Lab](https://github.com/cheshanj/AD_Home_Lab)
 
 <h2>📄 Certifications</h2>
 
