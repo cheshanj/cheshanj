@@ -33,6 +33,8 @@ IT professional with hands-on experience in system administration, cybersecurity
 ### // PROJECTS
 
 🟢 **[Active Directory Home Lab](https://github.com/cheshanj/AD_Home_Lab)** &nbsp;·&nbsp; `cybersec` &nbsp;·&nbsp; live  
+🟢 **[Wallpaper Engine Sniffer](https://github.com/cheshanj/wallpaper-engine-sniffer)** &nbsp;·&nbsp; `cybersec` &nbsp;·&nbsp; live  
+🟢 **[Quick AI Shifter](https://github.com/cheshanj/QuickAIShifter)** &nbsp;·&nbsp; `dev` &nbsp;·&nbsp; live  
 🟡 **PDF Forensics & Malware Analysis Lab** &nbsp;·&nbsp; `cybersec` &nbsp;·&nbsp; coming soon  
 🟡 **Active Directory Toolkit** &nbsp;·&nbsp; `cybersec` &nbsp;·&nbsp; coming soon  
 🟡 **AI Training Projects** &nbsp;·&nbsp; `ai` &nbsp;·&nbsp; in progress  
