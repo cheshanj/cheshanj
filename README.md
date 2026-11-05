@@ -1,5 +1,5 @@
 <!-- $ HELLO_WORLD -->
-# Cheshan Jayathilaka
+# Cheshan Panawaththe Widanelage
 
 ![IT Professional](https://img.shields.io/badge/IT_Professional-0969da?style=flat-square)
 ![Cybersecurity Enthusiast](https://img.shields.io/badge/Cybersecurity_Enthusiast-1f883d?style=flat-square)
